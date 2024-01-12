@@ -1,11 +1,10 @@
 {
-	"id": "sample-plugin",
-	"name": "Sample Plugin",
+	"id": "cycle-through-panes-test",
+	"name": "Cycle through panes test",
 	"version": "1.0.0",
 	"minAppVersion": "0.15.0",
-	"description": "Demonstrates some of the capabilities of the Obsidian API.",
-	"author": "Obsidian",
-	"authorUrl": "https://obsidian.md",
-	"fundingUrl": "https://obsidian.md/pricing",
+	"description": "Helps you navigate through the panes in Obsidian app",
+	"author": "nishita-kadian",
+	"authorUrl": "https://github.com/nishita-kadian",
 	"isDesktopOnly": false
 }
